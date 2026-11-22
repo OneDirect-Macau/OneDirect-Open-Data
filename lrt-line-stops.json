@@ -1,0 +1,87 @@
+[
+  {
+    "lineId": "taipa",
+    "sequence": 1,
+    "stopId": "Barra"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 2,
+    "stopId": "Ocean"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 3,
+    "stopId": "Jockey_Club"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 4,
+    "stopId": "Stadium"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 5,
+    "stopId": "Pai_Kok"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 6,
+    "stopId": "Cotai_West"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 7,
+    "stopId": "Lotus"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 8,
+    "stopId": "Union_Hospital"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 9,
+    "stopId": "East_Asian_Games"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 10,
+    "stopId": "Cotai_East"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 11,
+    "stopId": "MUST"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 12,
+    "stopId": "Airport"
+  },
+  {
+    "lineId": "taipa",
+    "sequence": 13,
+    "stopId": "Taipa_Ferry_Terminal"
+  },
+  {
+    "lineId": "seac_pai_van",
+    "sequence": 1,
+    "stopId": "Union_Hospital"
+  },
+  {
+    "lineId": "seac_pai_van",
+    "sequence": 2,
+    "stopId": "Seac_Pai_Van"
+  },
+  {
+    "lineId": "hengqin",
+    "sequence": 1,
+    "stopId": "Lotus"
+  },
+  {
+    "lineId": "hengqin",
+    "sequence": 2,
+    "stopId": "Hengqin"
+  }
+]

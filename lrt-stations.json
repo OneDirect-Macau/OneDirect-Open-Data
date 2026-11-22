@@ -1,0 +1,214 @@
+[
+  {
+    "stopId": "Barra",
+    "name": "媽閣",
+    "nameEn": "Barra",
+    "namePt": "Barra",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1836681,
+      "longitude": 113.5294126
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Ocean",
+    "name": "海洋",
+    "nameEn": "Ocean",
+    "namePt": "Oceano",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1578433,
+      "longitude": 113.5412974
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Jockey_Club",
+    "name": "馬會",
+    "nameEn": "Jockey Club",
+    "namePt": "Jockey Clube",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1570993,
+      "longitude": 113.5472418
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Stadium",
+    "name": "運動場",
+    "nameEn": "Stadium",
+    "namePt": "Estádio",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.154363,
+      "longitude": 113.5518827
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Pai_Kok",
+    "name": "排角",
+    "nameEn": "Pai Kok",
+    "namePt": "Pai Kok",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1508702,
+      "longitude": 113.554546
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Cotai_West",
+    "name": "路氹西",
+    "nameEn": "Cotai West",
+    "namePt": "Cotai Oeste",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.145089,
+      "longitude": 113.5578552
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Lotus",
+    "name": "蓮花",
+    "nameEn": "Lotus",
+    "namePt": "Lótus",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1395199,
+      "longitude": 113.5598134
+    },
+    "lineIds": [
+      "taipa",
+      "hengqin"
+    ]
+  },
+  {
+    "stopId": "East_Asian_Games",
+    "name": "東亞運",
+    "nameEn": "East Asian Games",
+    "namePt": "Jogos da Ásia Oriental",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1424123,
+      "longitude": 113.5686363
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Cotai_East",
+    "name": "路氹東",
+    "nameEn": "Cotai East",
+    "namePt": "Cotai Leste",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1482642,
+      "longitude": 113.5691205
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "MUST",
+    "name": "科大",
+    "nameEn": "MUST",
+    "namePt": "UCTM",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1530793,
+      "longitude": 113.5706473
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Airport",
+    "name": "機場",
+    "nameEn": "Airport",
+    "namePt": "Aeroporto",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1594033,
+      "longitude": 113.5746484
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Taipa_Ferry_Terminal",
+    "name": "氹仔碼頭",
+    "nameEn": "Taipa Ferry Terminal",
+    "namePt": "Terminal Marítimo da Taipa",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1630091,
+      "longitude": 113.5738656
+    },
+    "lineIds": [
+      "taipa"
+    ]
+  },
+  {
+    "stopId": "Union_Hospital",
+    "name": "協和醫院",
+    "nameEn": "Union Hospital",
+    "namePt": "Hospital Union",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1387063,
+      "longitude": 113.5633229
+    },
+    "lineIds": [
+      "taipa",
+      "seac_pai_van"
+    ]
+  },
+  {
+    "stopId": "Seac_Pai_Van",
+    "name": "石排灣",
+    "nameEn": "Seac Pai Van",
+    "namePt": "Seac Pai Van",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1314211,
+      "longitude": 113.5615423
+    },
+    "lineIds": [
+      "seac_pai_van"
+    ]
+  },
+  {
+    "stopId": "Hengqin",
+    "name": "橫琴",
+    "nameEn": "Hengqin",
+    "namePt": "Hengqin",
+    "mode": "lrt",
+    "coordinates": {
+      "latitude": 22.1406595,
+      "longitude": 113.5449167
+    },
+    "lineIds": [
+      "hengqin"
+    ]
+  }
+]

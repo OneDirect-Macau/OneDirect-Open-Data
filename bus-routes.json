@@ -1,0 +1,1004 @@
+[
+  {
+    "routeId": "1",
+    "name": "關閘 ⇌ 媽閣",
+    "namePt": "PORTAS DO CERCO ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "1A",
+    "name": "筷子基街 ⇌ 新口岸/科英布拉街",
+    "namePt": "RUA DE FÁI CHI KEI ⇌ NAPE / RUA DE COIMBRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "2",
+    "name": "永寧廣場 ⇌ 媽閣",
+    "namePt": "AL. TRANQUILIDADE ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "2A",
+    "name": "東方明珠 ↻ 亞馬喇前地",
+    "namePt": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "3",
+    "name": "關閘 ⇌ 外港碼頭",
+    "namePt": "PORTAS DO CERCO ⇌ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "3A",
+    "name": "司打口 ↻ 關閘",
+    "namePt": "P. PONTE HORTA ↻ PORTAS DO CERCO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "3AX",
+    "name": "關閘 ↻ 亞馬喇前地",
+    "namePt": "PORTAS DO CERCO ↻ PRAÇA FERREIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "3X",
+    "name": "關閘 ↻ 亞馬喇前地",
+    "namePt": "PORTAS DO CERCO ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "4",
+    "name": "筷子基 ↻ 新馬路",
+    "namePt": "FAI CHI KEI ↻ ALMEIDA RIBEIRO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "5",
+    "name": "媽閣 ↻ 華大新村",
+    "namePt": "BARRA ↻ BAIRRO VÁ TAI",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "5AX",
+    "name": "旅遊塔 ↻ 華大新村",
+    "namePt": "TORRE DE MACAU ↻ BAIRRO VÁ TAI",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "5X",
+    "name": "青洲坊 ↻ 皇朝",
+    "namePt": "BAIRRO DA ILHA VERDE ↻ NAPE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "6A",
+    "name": "永寧廣場 ↻ 山頂醫院",
+    "namePt": "AL. TRANQUILIDADE ↻ HOSPITAL S. JANUÁRIO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "6B",
+    "name": "媽閣 ↻ 山頂醫院",
+    "namePt": "BARRA ↻ HOSPITAL S. JANUÁRIO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "7",
+    "name": "東方明珠 ⇌ 城市日前地",
+    "namePt": "PÉROLA ORIENTAL ⇌ PRACETA 24 DE JUNHO",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "8",
+    "name": "工業園街 ⇌ 回力",
+    "namePt": "R. DO PARQUE INDUSTRIAL ⇌ JAI ALAI",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "8A",
+    "name": "工業園街 ↻ 亞馬喇前地",
+    "namePt": "R. DO PARQUE INDUSTRIAL ↻ PRAÇA FERREIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "9",
+    "name": "牧場街 ↻ 媽閣",
+    "namePt": "RUA DOS CURRAIS ↻ BARRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "9A",
+    "name": "牧場街 ↻ 旅遊塔",
+    "namePt": "RUA DOS CURRAIS ↻ TORRE DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "10",
+    "name": "關閘 ⇌ 媽閣",
+    "namePt": "PORTAS DO CERCO ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "10A",
+    "name": "外港碼頭 ⇌ 媽閣",
+    "namePt": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "10B",
+    "name": "馬場大馬路 ↻ 殷皇子馬路",
+    "namePt": "AVENIDA DO HIPÓDROMO ↻ AV. INFANTE D. HENRIQUE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "10X",
+    "name": "青洲坊 ↻ 亞馬喇前地",
+    "namePt": "BAIRRO DA ILHA VERDE ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "11",
+    "name": "媽閣 ↻ 氹仔官也街",
+    "namePt": "BARRA ↻ RUA DO CUNHA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "12",
+    "name": "永寧廣場 ↻ 外港碼頭",
+    "namePt": "AL. TRANQUILIDADE ↻ TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "15",
+    "name": "海洋花園 ↻ 九澳村",
+    "namePt": "JARDINS DO OCEANO ↻ POVOAÇÃO DE KA-HÓ",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "16",
+    "name": "牧場街 ↻ 下環街市",
+    "namePt": "RUA DOS CURRAIS ↻ MERCADO DE S. LOURENÇO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "16S",
+    "name": "牧場街 ↻ 媽閣",
+    "namePt": "RUA DOS CURRAIS ↻ BARRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "17",
+    "name": "白鴿巢 ↻ 宋玉生廣場",
+    "namePt": "JARDIM CAMÕES ↻ AL. DR. C. D'ASSUMPÇÃO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "17S",
+    "name": "新口岸/科英布拉街 ⇌ 關閘",
+    "namePt": "NAPE / RUA DE COIMBRA ⇌ PORTAS DO CERCO",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "18",
+    "name": "牧場街 ⇌ 媽閣",
+    "namePt": "RUA DOS CURRAIS ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "18A",
+    "name": "東方明珠 ↻ 新馬路",
+    "namePt": "PÉROLA ORIENTAL ↻ ALMEIDA RIBEIRO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "18B",
+    "name": "永定街 ⇌ 媽閣",
+    "namePt": "RUA DA SERENIDADE ⇌ BARRA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "19",
+    "name": "永寧廣場 ↻ 新馬路",
+    "namePt": "AL. TRANQUILIDADE ↻ ALEMIDA RIBEIRO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "21A",
+    "name": "媽閣 ⇌ 九澳油庫",
+    "namePt": "BARRA ⇌ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "22",
+    "name": "祐漢 ↻ 柯維納馬路",
+    "namePt": "IAO HON ↻ ESTRADA GOV. A. OLIVEIRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "23",
+    "name": "青洲 ↻ 旅遊塔",
+    "namePt": "EST. ILHA VERDE ↻ TORRE DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "25",
+    "name": "關閘 ↻ 路環市區",
+    "namePt": "PORTAS DO CERCO ↻ VILA DE COLOANE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "25AX",
+    "name": "關閘 ⇌ 蝴蝶谷大馬路",
+    "namePt": "PORTAS DO CERCO ⇌ AV. VALE DAS BORBOLETAS",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "25B",
+    "name": "關閘 ⇌ 橫琴澳方口岸",
+    "namePt": "PORTAS DO CERCO ⇌ POSTO FRONTEIRIÇO MACAU - HENGQIN",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "25BS",
+    "name": "橫琴澳方口岸 ↻ 望德聖母灣",
+    "namePt": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ BAÍA DE N. SENHORA DA ESPERANÇA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "26",
+    "name": "筷子基北灣 ↻ 路環街市",
+    "namePt": "BACIA NORTE DO PATANE ↻ MERCADO M. DE COLOANE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "26A",
+    "name": "筷子基北灣 ⇌ 黑沙海灘",
+    "namePt": "BACIA NORTE DO PATANE ⇌ PRAIA DE HAC SÁ",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "27",
+    "name": "望廈 ↻ 青洲",
+    "namePt": "MONG HÁ ↻ EST. ILHA VERDE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "28A",
+    "name": "外港碼頭 ↻ 柯維納馬路",
+    "namePt": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR ↻ ESTRADA GOV. A. OLIVEIRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "28B",
+    "name": "青洲 ↻ 媽閣",
+    "namePt": "EST. ILHA VERDE ↻ BARRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "28C",
+    "name": "回力 ↻ 看台街/騎士馬路",
+    "namePt": "JAI ALAI ↻ R. DA TRIBUNA / EST. DOC CAVALEIROS",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "29",
+    "name": "青洲 ↻ 東方拱門",
+    "namePt": "EST. ILHA VERDE ↻ ARCO ORIENTE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "30",
+    "name": "青洲坊 ↻ 氹仔中央公園",
+    "namePt": "BAIRRO DA ILHA VERDE ↻ PARQUE CENTRAL DA TAIPA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "30X",
+    "name": "關閘 ↻ 望德聖母灣",
+    "namePt": "PORTAS DO CERCO ↻ BAÍA DE N. SENHORA DA ESPERANÇA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "32",
+    "name": "筷子基 ↻ 旅遊塔",
+    "namePt": "FAI CHI KEI ↻ TORRE DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "33",
+    "name": "筷子基 ↻ 柯維納馬路",
+    "namePt": "FAI CHI KEI ↻ ESTRADA GOV. A. OLIVEIRA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "34",
+    "name": "青洲坊 ⇌ 海洋花園",
+    "namePt": "BAIRRO DA ILHA VERDE ⇌ JARDINS DO OCEANO",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "35",
+    "name": "蘇利安圓形地 ↻ 溜冰路",
+    "namePt": "ROTUNDA LEONEL SOUSA ↻ RUA DA PATINAGEM",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "35S",
+    "name": "湖畔大廈 ↻ 鏡湖護理學院",
+    "namePt": "EDIFÍCIO DO LAGO ↻ INSTITUTO DE ENFERMAGEM KIANG WU DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "36",
+    "name": "蘇利安圓形地 ↻ 澳門機場",
+    "namePt": "ROTUNDA LEONEL SOUSA ↻ AEROPORTO DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "37",
+    "name": "松樹尾 ↻ 信安馬路",
+    "namePt": "CHUN SU MEI ↻ AV. SON ON",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "39",
+    "name": "新口岸/科英布拉街 ↻ 湖畔大廈",
+    "namePt": "NAPE / RUA DE COIMBRA ↻ EDIFÍCIO DO LAGO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "50",
+    "name": "城市日前地 ↻ 路環市區",
+    "namePt": "PRACETA 24 DE JUNHO ↻ VILA DE COLOANE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "50B",
+    "name": "城市日前地 ↻ 駕考中心",
+    "namePt": "PRACETA 24 DE JUNHO ↻ CENTRO A. E EXAMES DE CONDUÇÃO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "51",
+    "name": "蝴蝶谷大馬路 ↻ 關閘",
+    "namePt": "AV. VALE DAS BORBOLETAS ↻ PORTAS DO CERCO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "51A",
+    "name": "海擎天 ⇌ 蝴蝶谷大馬路",
+    "namePt": "THE PRAIA ⇌ AV. VALE DAS BORBOLETAS",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "51X",
+    "name": "關閘 ⇌ 蝴蝶谷大馬路",
+    "namePt": "PORTAS DO CERCO ⇌ AV. VALE DAS BORBOLETAS",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "52",
+    "name": "蝴蝶谷大馬路 ↻ 亞馬喇前地",
+    "namePt": "AV. VALE DAS BORBOLETAS ↻ PRAÇA FERREIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "55",
+    "name": "蝴蝶谷大馬路 ↻ 司打口",
+    "namePt": "AV. VALE DAS BORBOLETAS ↻ P. PONTE HORTA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "56",
+    "name": "蝴蝶谷大馬路 ↻ 高士德",
+    "namePt": "AV. VALE DAS BORBOLETAS ↻ HORTA E COSTA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "59",
+    "name": "關閘 ⇌ 聯生工業邨",
+    "namePt": "PORTAS DO CERCO ⇌ PARQUE INDUSTRIAL DA CONCÓRDIA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "71",
+    "name": "澳門大學 ↻ 亞馬喇前地",
+    "namePt": "UNIVERSIDADE DE MACAU ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "71S",
+    "name": "澳門大學 ⇌ 凱泉灣",
+    "namePt": "UNIVERSIDADE DE MACAU ⇌ RIVIERA MACAU",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "72",
+    "name": "澳門大學 ↻ 湖畔大廈",
+    "namePt": "UNIVERSIDADE DE MACAU ↻ EDIFÍCIO DO LAGO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "73",
+    "name": "澳門大學 ↻ 黑沙環衛生中心",
+    "namePt": "UNIVERSIDADE DE MACAU ↻ CENTRO DE SAÚDE DA AREIA PRETA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "73S",
+    "name": "澳門大學 ↻ 黑沙環衛生中心",
+    "namePt": "UNIVERSIDADE DE MACAU ↻ CENTRO DE SAÚDE DA AREIA PRETA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "101X",
+    "name": "港珠澳大橋邊檢大樓 ↻ 亞馬喇前地",
+    "namePt": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "102X",
+    "name": "港珠澳大橋邊檢大樓 ⇌ 橫琴澳方口岸",
+    "namePt": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU ⇌ POSTO FRONTEIRIÇO MACAU - HENGQIN",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "701X",
+    "name": "橫琴澳方口岸 ↻ 路氹連貫公路",
+    "namePt": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ ESTRADA DO ISTMO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴",
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "AP1",
+    "name": "關閘 ↻ 澳門機場",
+    "namePt": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "AP1X",
+    "name": "關閘 ↻ 澳門機場",
+    "namePt": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "H1",
+    "name": "山頂醫院 ↻ 水坑尾",
+    "namePt": "HOSPITAL S. JANUÁRIO ↻ RUA DO CAMPO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "H2",
+    "name": "俾若翰街/快富樓 ↻ 山頂醫院",
+    "namePt": "R. DO COMANDANTE JOÃO BELO / EDF. FAI FU ↻ HOSPITAL S. JANUÁRIO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "H3",
+    "name": "蝴蝶谷大馬路 ↻ 山頂醫院",
+    "namePt": "AV. VALE DAS BORBOLETAS ↻ HOSPITAL S. JANUÁRIO",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "MT1",
+    "name": "城市日前地 ↻ 澳門機場",
+    "namePt": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "MT2",
+    "name": "城市日前地 ↻ 氹仔中央公園",
+    "namePt": "PRACETA 24 DE JUNHO ↻ PARQUE CENTRAL DA TAIPA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "MT3",
+    "name": "望廈 ↻ 望德聖母灣",
+    "namePt": "MONG HÁ ↻ BAÍA DE N. SENHORA DA ESPERANÇA",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "MT4",
+    "name": "關閘 ⇌ 氹仔客運碼頭",
+    "namePt": "PORTAS DO CERCO ⇌ TERMINAL MARÍTIMO PROVISÓRIO DA TAIPA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "新福利"
+    ]
+  },
+  {
+    "routeId": "MT5",
+    "name": "湖畔大廈 ↻ 皇朝",
+    "namePt": "EDIFÍCIO DO LAGO ↻ NAPE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N1A",
+    "name": "筷子基北灣 ↻ 亞馬喇前地",
+    "namePt": "BACIA NORTE DO PATANE ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N1B",
+    "name": "筷子基北灣 ↻ 亞馬喇前地",
+    "namePt": "BACIA NORTE DO PATANE ↻ PRAÇA FERRIRA AMARAL",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N2",
+    "name": "筷子基北灣 ⇌ 氹仔客運碼頭",
+    "namePt": "BACIA NORTE DO PATANE ⇌ TERMINAL MARÍTIMO PASSAGEIROS DA TAIPA",
+    "mode": "bus",
+    "routeType": "2-way",
+    "directionCount": 2,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N3",
+    "name": "亞馬喇前地 ↻ 路環市區",
+    "namePt": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N5",
+    "name": "亞馬喇前地 ↻ 蝴蝶谷大馬路",
+    "namePt": "PRAÇA FERREIRA AMARAL ↻ AV. VALE DAS BORBOLETAS",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  },
+  {
+    "routeId": "N6",
+    "name": "澳門大學 ↻ 科技大學",
+    "namePt": "UNIVERSIDADE DE MACAU ↻ UNIVERSIDADE DE CIÊNCIA E TECNOLOGIA DE MACAU",
+    "mode": "bus",
+    "routeType": "circular",
+    "directionCount": 1,
+    "agencyNames": [
+      "澳巴"
+    ]
+  }
+]

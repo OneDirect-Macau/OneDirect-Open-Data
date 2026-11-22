@@ -1,0 +1,23 @@
+[
+  {
+    "lineId": "taipa",
+    "name": "Taipa Line",
+    "nameZh": "氹仔線",
+    "mode": "lrt",
+    "color": "#84C44A"
+  },
+  {
+    "lineId": "seac_pai_van",
+    "name": "Seac Pai Van Line",
+    "nameZh": "石排灣線",
+    "mode": "lrt",
+    "color": "#8A66C3"
+  },
+  {
+    "lineId": "hengqin",
+    "name": "Hengqin Line",
+    "nameZh": "橫琴線",
+    "mode": "lrt",
+    "color": "#BD283B"
+  }
+]
